@@ -16,8 +16,10 @@ http://75697-mouse.cloud-x.me:80/play/live.php?mac=00:1A:79:62:38:32&stream=1458
 #EXTINF:-1 tvg-id="Sky Sports Cricket.uk"tvg-logo=""group-title="UK Sports",Sky Sports Cricket
 http://75697-mouse.cloud-x.me:80/play/live.php?mac=00:1A:79:62:38:32&stream=1458675&extension=ts&play_token=ulnkkEHoBr
 #EXTINF:-1 tvg-id="Sky Sports Darts.uk"tvg-logo=""group-title="UK Sports",Sky Sports Darts
+http://123456.m3u8
+#EXTINF:-1 tvg-id="Sky Sports F1.uk"tvg-logo=""group-title="UK Sports",Sky Sports F1
 http://75697-mouse.cloud-x.me:80/play/live.php?mac=00:1A:79:62:38:32&stream=1458661&extension=ts&play_token=xmSZBG5obs
-#EXTINF:-1 tvg-id="Sky Sports Darts UHD.uk"tvg-logo=""group-title="UK Sports",Sky Sports Darts UHD
+#EXTINF:-1 tvg-id="Sky Sports F1 UHD.uk"tvg-logo=""group-title="UK Sports",Sky Sports F1 UHD
 http://123456.m3u8
 #EXTINF:-1 tvg-id="Sky Sports Football.uk"tvg-logo=""group-title="UK Sports",Sky Sports Football
 http://75697-mouse.cloud-x.me:80/play/live.php?mac=00:1A:79:62:38:32&stream=1458674&extension=ts&play_token=nD0uZMguX0
