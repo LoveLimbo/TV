@@ -51,7 +51,7 @@ for line in lines:
         new_lines.append(line)
 
 # 写入新的 m3u 文件
-output_name = f"logo_{m3u_name}"
+output_name = f"logo.{m3u_name}"
 with open(output_name, 'w', encoding='utf-8') as file:
     file.writelines(new_lines)
 
