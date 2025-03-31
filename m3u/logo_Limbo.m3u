@@ -1,0 +1,53 @@
+﻿#EXTM3U
+#EXTINF:-1 tvg-id="Eurosport 1.uk"tvg-logo="https://raw.githubusercontent.com/LoveLimbo/TV/main/logo/Eurosport%201.uk.png"group-title="UK Sports",Eurosport 1
+http://75697-mouse.cloud-x.me:80/play/live.php?mac=00:1A:79:62:38:32&stream=1458649&extension=ts&play_token=X8A3rZQCOP
+#EXTINF:-1 tvg-id="Eurosport 2.uk"tvg-logo="https://raw.githubusercontent.com/LoveLimbo/TV/main/logo/Eurosport%202.uk.png"group-title="UK Sports",Eurosport 2
+http://75697-mouse.cloud-x.me:80/play/live.php?mac=00:1A:79:62:38:32&stream=1458648&extension=ts&play_token=kcg7KCwfAO
+#EXTINF:-1 tvg-id="Premier Sports 1.uk"tvg-logo="https://raw.githubusercontent.com/LoveLimbo/TV/main/logo/Premier%20Sports%201.uk.png"group-title="UK Sports",Premier Sports 1
+https://raw.githubusercontent.com/LoveLimbo/tv-logos/main/countries/united-kingdom/premier-sports-1-uk.png
+#EXTINF:-1 tvg-id="Premier Sports 2.uk"tvg-logo="https://raw.githubusercontent.com/LoveLimbo/TV/main/logo/Premier%20Sports%202.uk.png"group-title="UK Sports",Premier Sports 2
+https://raw.githubusercontent.com/LoveLimbo/tv-logos/main/countries/united-kingdom/premier-sports-2-uk.png
+#EXTINF:-1 tvg-id="Sky Sports +.uk"tvg-logo="https://raw.githubusercontent.com/LoveLimbo/TV/main/logo/Sky%20Sports%20+.uk.png"group-title="UK Sports",Sky Sports +
+
+#EXTINF:-1 tvg-id="Sky Sports Action.uk"tvg-logo="https://raw.githubusercontent.com/LoveLimbo/TV/main/logo/Sky%20Sports%20Action.uk.png"group-title="UK Sports",Sky Sports Action
+http://75697-mouse.cloud-x.me:80/play/live.php?mac=00:1A:79:62:38:32&stream=1458677&extension=ts&play_token=egceFiA0a7
+#EXTINF:-1 tvg-id="Sky Sports Arena.uk"tvg-logo="https://raw.githubusercontent.com/LoveLimbo/TV/main/logo/Sky%20Sports%20Arena.uk.png"group-title="UK Sports",Sky Sports Arena
+http://75697-mouse.cloud-x.me:80/play/live.php?mac=00:1A:79:62:38:32&stream=1458677&extension=ts&play_token=egceFiA0a7
+#EXTINF:-1 tvg-id="Sky Sports Cricket.uk"tvg-logo="https://raw.githubusercontent.com/LoveLimbo/TV/main/logo/Sky%20Sports%20Cricket.uk.png"group-title="UK Sports",Sky Sports Cricket
+http://75697-mouse.cloud-x.me:80/play/live.php?mac=00:1A:79:62:38:32&stream=1458675&extension=ts&play_token=ulnkkEHoBr
+#EXTINF:-1 tvg-id="Sky Sports Darts.uk"tvg-logo="https://raw.githubusercontent.com/LoveLimbo/TV/main/logo/Sky%20Sports%20Darts.uk.png"group-title="UK Sports",Sky Sports Darts
+http://75697-mouse.cloud-x.me:80/play/live.php?mac=00:1A:79:62:38:32&stream=1458661&extension=ts&play_token=xmSZBG5obs
+#EXTINF:-1 tvg-id="Sky Sports Darts UHD.uk"tvg-logo="https://raw.githubusercontent.com/LoveLimbo/TV/main/logo/Sky%20Sports%20Darts%20UHD.uk.png"group-title="UK Sports",Sky Sports Darts UHD
+
+#EXTINF:-1 tvg-id="Sky Sports Football.uk"tvg-logo="https://raw.githubusercontent.com/LoveLimbo/TV/main/logo/Sky%20Sports%20Football.uk.png"group-title="UK Sports",Sky Sports Football
+http://75697-mouse.cloud-x.me:80/play/live.php?mac=00:1A:79:62:38:32&stream=1458674&extension=ts&play_token=nD0uZMguX0
+#EXTINF:-1 tvg-id="Sky Sports Golf.uk"tvg-logo="https://raw.githubusercontent.com/LoveLimbo/TV/main/logo/Sky%20Sports%20Golf.uk.png"group-title="UK Sports",Sky Sports Golf
+http://75697-mouse.cloud-x.me:80/play/live.php?mac=00:1A:79:62:38:32&stream=1458673&extension=ts&play_token=ZnxTgbuXcp
+#EXTINF:-1 tvg-id="Sky Sports Main Event.uk"tvg-logo="https://raw.githubusercontent.com/LoveLimbo/TV/main/logo/Sky%20Sports%20Main%20Event.uk.png"group-title="UK Sports",Sky Sports Main Event
+http://75697-mouse.cloud-x.me:80/play/live.php?mac=00:1A:79:62:38:32&stream=1458672&extension=ts&play_token=2SaI9SlGW6
+#EXTINF:-1 tvg-id="Sky SportMainEventUHD.uk"tvg-logo="https://raw.githubusercontent.com/LoveLimbo/TV/main/logo/Sky%20SportMainEventUHD.uk.png"group-title="UK Sports",Sky Sports Main Event UHD
+
+#EXTINF:-1 tvg-id="Sky Sports Mix.uk"tvg-logo="https://raw.githubusercontent.com/LoveLimbo/TV/main/logo/Sky%20Sports%20Mix.uk.png"group-title="UK Sports",Sky Sports Mix
+http://75697-mouse.cloud-x.me:80/play/live.php?mac=00:1A:79:62:38:32&stream=1458671&extension=ts&play_token=owfks2XksW
+#EXTINF:-1 tvg-id="Sky Sports News.uk"tvg-logo="https://raw.githubusercontent.com/LoveLimbo/TV/main/logo/Sky%20Sports%20News.uk.png"group-title="UK Sports",Sky Sports News
+http://75697-mouse.cloud-x.me:80/play/live.php?mac=00:1A:79:62:38:32&stream=1458670&extension=ts&play_token=qdw9FiePCE
+#EXTINF:-1 tvg-id="Sky Sports Premier League.uk"tvg-logo="https://raw.githubusercontent.com/LoveLimbo/TV/main/logo/Sky%20Sports%20Premier%20League.uk.png"group-title="UK Sports",Sky Sports Premier League
+http://75697-mouse.cloud-x.me:80/play/live.php?mac=00:1A:79:62:38:32&stream=1458656&extension=ts&play_token=bMeqzAIyTt
+#EXTINF:-1 tvg-id="Sky Sports Racing.uk"tvg-logo="https://raw.githubusercontent.com/LoveLimbo/TV/main/logo/Sky%20Sports%20Racing.uk.png"group-title="UK Sports",Sky Sports Racing
+http://75697-mouse.cloud-x.me:80/play/live.php?mac=00:1A:79:62:38:32&stream=1458668&extension=ts&play_token=VvQbNHFVFc
+#EXTINF:-1 tvg-id="Sky Sports Tennis.uk"tvg-logo="https://raw.githubusercontent.com/LoveLimbo/TV/main/logo/Sky%20Sports%20Tennis.uk.png"group-title="UK Sports",Sky Sports Tennis
+http://75697-mouse.cloud-x.me:80/play/live.php?mac=00:1A:79:62:38:32&stream=1458813&extension=ts&play_token=DjwfoHuUVV
+#EXTINF:-1 tvg-id="TNT Sports 1.uk"tvg-logo="https://raw.githubusercontent.com/LoveLimbo/TV/main/logo/TNT%20Sports%201.uk.png"group-title="UK Sports",TNT Sports 1
+http://75697-mouse.cloud-x.me:80/play/live.php?mac=00:1A:79:62:38:32&stream=1458678&extension=ts&play_token=nVmSWSGi7j
+#EXTINF:-1 tvg-id="TNT Sports 2.uk"tvg-logo="https://raw.githubusercontent.com/LoveLimbo/TV/main/logo/TNT%20Sports%202.uk.png"group-title="UK Sports",TNT Sports 2
+http://75697-mouse.cloud-x.me:80/play/live.php?mac=00:1A:79:62:38:32&stream=1458666&extension=ts&play_token=2wtXAdeupg
+#EXTINF:-1 tvg-id="TNT Sports 3.uk"tvg-logo="https://raw.githubusercontent.com/LoveLimbo/TV/main/logo/TNT%20Sports%203.uk.png"group-title="UK Sports",TNT Sports 3
+http://75697-mouse.cloud-x.me:80/play/live.php?mac=00:1A:79:62:38:32&stream=1458665&extension=ts&play_token=n4f6KF7YwH
+#EXTINF:-1 tvg-id="TNT Sports 4.uk"tvg-logo="https://raw.githubusercontent.com/LoveLimbo/TV/main/logo/TNT%20Sports%204.uk.png"group-title="UK Sports",TNT Sports 4
+http://75697-mouse.cloud-x.me:80/play/live.php?mac=00:1A:79:62:38:32&stream=1458815&extension=ts&play_token=mj3K6KfPGv
+#EXTINF:-1 tvg-id="TNT Sports Box Office HD.uk"tvg-logo="https://raw.githubusercontent.com/LoveLimbo/TV/main/logo/TNT%20Sports%20Box%20Office%20HD.uk.png"group-title="UK Sports",TNT Sports Box Office
+
+#EXTINF:-1 tvg-id="TNT Sports Box Office 2 HD.uk"tvg-logo="https://raw.githubusercontent.com/LoveLimbo/TV/main/logo/TNT%20Sports%20Box%20Office%202%20HD.uk.png"group-title="UK Sports",TNT Sports Box Office 2
+
+#EXTINF:-1 tvg-id="TNT Sports Ultimate.uk"tvg-logo="https://raw.githubusercontent.com/LoveLimbo/TV/main/logo/TNT%20Sports%20Ultimate.uk.png"group-title="UK Sports",TNT Sports Ultimate
+
