@@ -3,10 +3,6 @@
 http://vocotv.pro/1602/1602/276788
 #EXTINF:-1 tvg-id="Premier Sports 2.uk"tvg-logo="https://raw.githubusercontent.com/LoveLimbo/TV/main/logo/Premier%20Sports%202.uk.png"group-title="UK Sports",Premier Sports 2
 http://vocotv.pro/1602/1602/276787
-#EXTINF:-1 tvg-id="Sky Sports Ultra HD 1.uk"tvg-logo="https://raw.githubusercontent.com/LoveLimbo/TV/main/logo/Sky%20Sports%20Ultra%20HD%201.uk.png"group-title="UK Sports",Sky Sports UHD 1
-http://vocotv.pro/1602/1602/620665
-#EXTINF:-1 tvg-id="Sky Sports Ultra HD 2.uk"tvg-logo="https://raw.githubusercontent.com/LoveLimbo/TV/main/logo/Sky%20Sports%20Ultra%20HD%202.uk.png"group-title="UK Sports",Sky Sports UHD 2
-http://vocotv.pro/1602/1602/620664
 #EXTINF:-1 tvg-id="Sky Sports +.uk"tvg-logo="https://raw.githubusercontent.com/LoveLimbo/TV/main/logo/Sky%20Sports%20+.uk.png"group-title="UK Sports",Sky Sports +
 http://vocotv.pro/1602/1602/709392
 #EXTINF:-1 tvg-id="Sky Sports Action.uk"tvg-logo="https://raw.githubusercontent.com/LoveLimbo/TV/main/logo/Sky%20Sports%20Action.uk.png"group-title="UK Sports",Sky Sports Action
@@ -35,17 +31,15 @@ http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:50:3A:22&stream=1458669&ext
 http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:50:3A:22&stream=1458668&extension=ts&play_token=DgKNz8o67C
 #EXTINF:-1 tvg-id="Sky Sports Tennis.uk"tvg-logo="https://raw.githubusercontent.com/LoveLimbo/TV/main/logo/Sky%20Sports%20Tennis.uk.png"group-title="UK Sports",Sky Sports Tennis
 http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:50:3A:22&stream=1458813&extension=ts&play_token=dmVSoFeUNm
+#EXTINF:-1 tvg-id="Sky Sports Ultra HD 1.uk"tvg-logo="https://raw.githubusercontent.com/LoveLimbo/TV/main/logo/Sky%20Sports%20Ultra%20HD%201.uk.png"group-title="UK Sports",Sky Sports UHD 1
+http://vocotv.pro/1602/1602/620665
+#EXTINF:-1 tvg-id="Sky Sports Ultra HD 2.uk"tvg-logo="https://raw.githubusercontent.com/LoveLimbo/TV/main/logo/Sky%20Sports%20Ultra%20HD%202.uk.png"group-title="UK Sports",Sky Sports UHD 2
+http://vocotv.pro/1602/1602/620664
 #EXTINF:-1 tvg-id="TNT Sports 1.uk"tvg-logo="https://raw.githubusercontent.com/LoveLimbo/TV/main/logo/TNT%20Sports%201.uk.png"group-title="UK Sports",TNT Sports 1
 http://vocotv.pro/1602/1602/288375
 #EXTINF:-1 tvg-id="TNT Sports 2.uk"tvg-logo="https://raw.githubusercontent.com/LoveLimbo/TV/main/logo/TNT%20Sports%202.uk.png"group-title="UK Sports",TNT Sports 2
-http://vocotv.pro/1602/1602/276802
-http://vocotv.pro/1602/1602/276801
-http://vocotv.pro/1602/1602/276800
 http://vocotv.pro/1602/1602/276799
 #EXTINF:-1 tvg-id="TNT Sports 3.uk"tvg-logo="https://raw.githubusercontent.com/LoveLimbo/TV/main/logo/TNT%20Sports%203.uk.png"group-title="UK Sports",TNT Sports 3
-http://vocotv.pro/1602/1602/276802
-http://vocotv.pro/1602/1602/276801
-http://vocotv.pro/1602/1602/276800
 http://vocotv.pro/1602/1602/276799
 #EXTINF:-1 tvg-id="TNT Sports 4.uk"tvg-logo="https://raw.githubusercontent.com/LoveLimbo/TV/main/logo/TNT%20Sports%204.uk.png"group-title="UK Sports",TNT Sports 4
 http://vocotv.pro/1602/1602/276802
@@ -55,5 +49,3 @@ http://vocotv.pro/1602/1602/276801
 http://vocotv.pro/1602/1602/276800
 #EXTINF:-1 tvg-id="TNT Sports Ultimate.uk"tvg-logo="https://raw.githubusercontent.com/LoveLimbo/TV/main/logo/TNT%20Sports%20Ultimate.uk.png"group-title="UK Sports",TNT Sports Ultimate
 http://vocotv.pro/1602/1602/276799
-#EXTINF:-1 tvg-id="1"tvg-logo="https://raw.githubusercontent.com/LoveLimbo/TV/main/logo/1.png"group-title="",
-
