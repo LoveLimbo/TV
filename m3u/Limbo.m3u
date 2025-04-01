@@ -1,10 +1,10 @@
 ﻿#EXTM3U x-tvg-url="https://www.open-epg.com/generate/ewdev8e2M7.xml"
 #EXTINF:-1 tvg-id="Premier Sports 1.uk"tvg-logo="https://raw.githubusercontent.com/LoveLimbo/TV/main/logo/Premier%20Sports%201.uk.png"group-title="UK Sports",Premier Sports 1
-http://vocotv.pro/1602/1602/276788
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:50:3A:22&stream=1458647&extension=ts&play_token=kX44nruq5B
 #EXTINF:-1 tvg-id="Premier Sports 2.uk"tvg-logo="https://raw.githubusercontent.com/LoveLimbo/TV/main/logo/Premier%20Sports%202.uk.png"group-title="UK Sports",Premier Sports 2
-http://vocotv.pro/1602/1602/276787
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:50:3A:22&stream=1458812&extension=ts&play_token=6AWfTn1NgJ
 #EXTINF:-1 tvg-id="Sky Sports +.uk"tvg-logo="https://raw.githubusercontent.com/LoveLimbo/TV/main/logo/Sky%20Sports%20+.uk.png"group-title="UK Sports",Sky Sports +
-http://vocotv.pro/1602/1602/709392
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:50:3A:22&stream=1458676&extension=ts&play_token=k4NJqVdLHs
 #EXTINF:-1 tvg-id="Sky Sports Action.uk"tvg-logo="https://raw.githubusercontent.com/LoveLimbo/TV/main/logo/Sky%20Sports%20Action.uk.png"group-title="UK Sports",Sky Sports Action
 http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:50:3A:22&stream=1458677&extension=ts&play_token=ATVFsN7TI2
 #EXTINF:-1 tvg-id="Sky Sports Cricket.uk"tvg-logo="https://raw.githubusercontent.com/LoveLimbo/TV/main/logo/Sky%20Sports%20Cricket.uk.png"group-title="UK Sports",Sky Sports Cricket
@@ -12,7 +12,7 @@ http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:50:3A:22&stream=1458675&ext
 #EXTINF:-1 tvg-id="Sky Sports F1.uk"tvg-logo="https://raw.githubusercontent.com/LoveLimbo/TV/main/logo/Sky%20Sports%20F1.uk.png"group-title="UK Sports",Sky Sports F1
 http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:50:3A:22&stream=1458661&extension=ts&play_token=3YWdNPKwzt
 #EXTINF:-1 tvg-id="Sky Sports F1 UHD.uk"tvg-logo="https://raw.githubusercontent.com/LoveLimbo/TV/main/logo/Sky%20Sports%20F1%20UHD.uk.png"group-title="UK Sports",Sky Sports F1 UHD
-http://vocotv.pro/1602/1602/620666
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:50:3A:22&stream=1471382&extension=ts&play_token=aU4fLArAdj
 #EXTINF:-1 tvg-id="Sky Sports Football.uk"tvg-logo="https://raw.githubusercontent.com/LoveLimbo/TV/main/logo/Sky%20Sports%20Football.uk.png"group-title="UK Sports",Sky Sports Football
 http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:50:3A:22&stream=1458674&extension=ts&play_token=yafzdfRq5k
 #EXTINF:-1 tvg-id="Sky Sports Golf.uk"tvg-logo="https://raw.githubusercontent.com/LoveLimbo/TV/main/logo/Sky%20Sports%20Golf.uk.png"group-title="UK Sports",Sky Sports Golf
@@ -20,7 +20,7 @@ http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:50:3A:22&stream=1458673&ext
 #EXTINF:-1 tvg-id="Sky Sports Main Event.uk"tvg-logo="https://raw.githubusercontent.com/LoveLimbo/TV/main/logo/Sky%20Sports%20Main%20Event.uk.png"group-title="UK Sports",Sky Sports Main Event
 http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:50:3A:22&stream=1458672&extension=ts&play_token=Lz7B9JIeAH
 #EXTINF:-1 tvg-id="Sky Sports Main Event.uk"tvg-logo="https://raw.githubusercontent.com/LoveLimbo/TV/main/logo/Sky%20Sports%20Main%20Event.uk.png"group-title="UK Sports",Sky Sports Main Event UHD
-http://vocotv.pro/1602/1602/620667
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:50:3A:22&stream=1608071&extension=ts&play_token=Yc3Hzn4SKB
 #EXTINF:-1 tvg-id="Sky Sports Mix.uk"tvg-logo="https://raw.githubusercontent.com/LoveLimbo/TV/main/logo/Sky%20Sports%20Mix.uk.png"group-title="UK Sports",Sky Sports Mix
 http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:50:3A:22&stream=1458671&extension=ts&play_token=iC6I8mS73h
 #EXTINF:-1 tvg-id="Sky Sports News.uk"tvg-logo="https://raw.githubusercontent.com/LoveLimbo/TV/main/logo/Sky%20Sports%20News.uk.png"group-title="UK Sports",Sky Sports News
@@ -38,14 +38,16 @@ http://vocotv.pro/1602/1602/620664
 #EXTINF:-1 tvg-id="TNT Sports 1.uk"tvg-logo="https://raw.githubusercontent.com/LoveLimbo/TV/main/logo/TNT%20Sports%201.uk.png"group-title="UK Sports",TNT Sports 1
 http://vocotv.pro/1602/1602/276802
 #EXTINF:-1 tvg-id="TNT Sports 2.uk"tvg-logo="https://raw.githubusercontent.com/LoveLimbo/TV/main/logo/TNT%20Sports%202.uk.png"group-title="UK Sports",TNT Sports 2
-http://vocotv.pro/1602/1602/276801
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:50:3A:22&stream=1458666&extension=ts&play_token=DEKZZ41GnL
 #EXTINF:-1 tvg-id="TNT Sports 3.uk"tvg-logo="https://raw.githubusercontent.com/LoveLimbo/TV/main/logo/TNT%20Sports%203.uk.png"group-title="UK Sports",TNT Sports 3
-http://vocotv.pro/1602/1602/276800
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:50:3A:22&stream=1458665&extension=ts&play_token=ODjFuGO5BO
 #EXTINF:-1 tvg-id="TNT Sports 4.uk"tvg-logo="https://raw.githubusercontent.com/LoveLimbo/TV/main/logo/TNT%20Sports%204.uk.png"group-title="UK Sports",TNT Sports 4
-http://vocotv.pro/1602/1602/276799
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:50:3A:22&stream=1458815&extension=ts&play_token=vh7J9GGUHE
 #EXTINF:-1 tvg-id="TNT Sports Box Office HD.uk"tvg-logo="https://raw.githubusercontent.com/LoveLimbo/TV/main/logo/TNT%20Sports%20Box%20Office%20HD.uk.png"group-title="UK Sports",TNT Sports Box Office
-http://vocotv.pro/1602/1602/276801
+http://123456.m3u8
 #EXTINF:-1 tvg-id="TNT Sports Box Office 2 HD.uk"tvg-logo="https://raw.githubusercontent.com/LoveLimbo/TV/main/logo/TNT%20Sports%20Box%20Office%202%20HD.uk.png"group-title="UK Sports",TNT Sports Box Office 2
-http://vocotv.pro/1602/1602/276800
+http://123456.m3u8
 #EXTINF:-1 tvg-id="TNT Sports Ultimate.uk"tvg-logo="https://raw.githubusercontent.com/LoveLimbo/TV/main/logo/TNT%20Sports%20Ultimate.uk.png"group-title="UK Sports",TNT Sports Ultimate
-http://vocotv.pro/1602/1602/276799
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:50:3A:22&stream=1595637&extension=ts&play_token=LlkmrSHUo1
+#EXTINF:-1 tvg-id="1"tvg-logo=""group-title="",
+
