@@ -1,4 +1,4 @@
 ﻿#EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz"
-#EXTINF:-1 tvg-shift="+8" tvg-id="TNT.Sports.1.HD.uk" tvg-logo="https://raw.githubusercontent.com/LoveLimbo/TV/main/logo/TNT%20Sports%201.uk.png" group-title="UK Sports",TNT Sports 1
+#EXTINF:-1 tvg-shift="8" tvg-id="TNT.Sports.1.HD.uk" tvg-logo="https://raw.githubusercontent.com/LoveLimbo/TV/main/logo/TNT%20Sports%201.uk.png" group-title="UK Sports",TNT Sports 1
 http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:50:3A:22&stream=1458667&extension=ts&play_token=eioXSGFUGh
 
