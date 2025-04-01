@@ -1,4 +1,4 @@
-﻿#EXTM3U
+﻿#EXTM3U x-tvg-url="https://www.open-epg.com/generate/ewdev8e2M7.xml"
 #EXTINF:-1 tvg-id="Premier Sports 1.uk"tvg-logo="https://raw.githubusercontent.com/LoveLimbo/TV/main/logo/Premier%20Sports%201.uk.png"group-title="UK Sports",Premier Sports 1
 http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:50:3A:22&stream=1458647&extension=ts&play_token=kX44nruq5B
 #EXTINF:-1 tvg-id="Premier Sports 2.uk"tvg-logo="https://raw.githubusercontent.com/LoveLimbo/TV/main/logo/Premier%20Sports%202.uk.png"group-title="UK Sports",Premier Sports 2
