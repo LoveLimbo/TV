@@ -1,59 +1,51 @@
 ﻿#EXTM3U x-tvg-url="https://www.open-epg.com/generate/ewdev8e2M7.xml"
-#EXTINF:-1 tvg-id=""tvg-logo=""group-title="",
-
-#EXTINF:-1 tvg-id=""tvg-logo=""group-title="",
-
-#EXTINF:-1 tvg-id=""tvg-logo=""group-title="",
-
-#EXTINF:-1 tvg-id=""tvg-logo=""group-title="",
-
-#EXTINF:-1 tvg-id=""tvg-logo=""group-title="",
-
-#EXTINF:-1 tvg-id=""tvg-logo=""group-title="",
-
-#EXTINF:-1 tvg-id=""tvg-logo=""group-title="",
-
-#EXTINF:-1 tvg-id=""tvg-logo=""group-title="",
-
-#EXTINF:-1 tvg-id=""tvg-logo=""group-title="",
-
-#EXTINF:-1 tvg-id="Now Sports 1.hk"tvg-logo="https://raw.githubusercontent.com/LoveLimbo/tv-logos/main/countries/hong-kong/now-sports-1-hk.png"group-title="HK Sports",Now Sports 1
+#EXTINF:-1 tvg-id="CCTV16.cn"tvg-logo="https://raw.githubusercontent.com/LoveLimbo/TV/main/logo/CCTV16.cn.png"group-title="CN Sports",CCTV16
+http://123456.m3u8/
+#EXTINF:-1 tvg-id="CCTV5.cn"tvg-logo="https://raw.githubusercontent.com/LoveLimbo/TV/main/logo/CCTV5.cn.png"group-title="CN Sports",CCTV5
+http://123456.m3u8/
+#EXTINF:-1 tvg-id="CCTV5PLUS.cn"tvg-logo="https://raw.githubusercontent.com/LoveLimbo/TV/main/logo/CCTV5PLUS.cn.png"group-title="CN Sports",CCTV5+
+http://123456.m3u8/
+#EXTINF:-1 tvg-id="DAZN 1.tw"tvg-logo="https://raw.githubusercontent.com/LoveLimbo/TV/main/logo/DAZN%201.tw.png"group-title="TW Sports",DAZN 1
+http://123456.m3u8/
+#EXTINF:-1 tvg-id="DAZN 2.tw"tvg-logo="https://raw.githubusercontent.com/LoveLimbo/TV/main/logo/DAZN%202.tw.png"group-title="TW Sports",DAZN 2
+http://123456.m3u8/
+#EXTINF:-1 tvg-id="Now Sports 1.hk"tvg-logo="https://raw.githubusercontent.com/LoveLimbo/TV/main/logo/Now%20Sports%201.hk.png"group-title="HK Sports",Now Sports 1
 https://raw.githubusercontent.com/LoveLimbo/tv-logos/main/countries/hong-kong/now-sports-1-hk.png
-#EXTINF:-1 tvg-id="Now Sports 2.hk"tvg-logo="https://raw.githubusercontent.com/LoveLimbo/tv-logos/main/countries/hong-kong/now-sports-2-hk.png"group-title="HK Sports",Now Sports 2
+#EXTINF:-1 tvg-id="Now Sports 2.hk"tvg-logo="https://raw.githubusercontent.com/LoveLimbo/TV/main/logo/Now%20Sports%202.hk.png"group-title="HK Sports",Now Sports 2
 https://raw.githubusercontent.com/LoveLimbo/tv-logos/main/countries/hong-kong/now-sports-2-hk.png
-#EXTINF:-1 tvg-id="Now Sports 3.hk"tvg-logo="https://raw.githubusercontent.com/LoveLimbo/tv-logos/main/countries/hong-kong/now-sports-3-hk.png"group-title="HK Sports",Now Sports 3
+#EXTINF:-1 tvg-id="Now Sports 3.hk"tvg-logo="https://raw.githubusercontent.com/LoveLimbo/TV/main/logo/Now%20Sports%203.hk.png"group-title="HK Sports",Now Sports 3
 https://raw.githubusercontent.com/LoveLimbo/tv-logos/main/countries/hong-kong/now-sports-3-hk.png
-#EXTINF:-1 tvg-id="Now Sports 4.hk"tvg-logo="https://raw.githubusercontent.com/LoveLimbo/tv-logos/main/countries/hong-kong/now-sports-4-hk.png"group-title="HK Sports",Now Sports 4
+#EXTINF:-1 tvg-id="Now Sports 4.hk"tvg-logo="https://raw.githubusercontent.com/LoveLimbo/TV/main/logo/Now%20Sports%204.hk.png"group-title="HK Sports",Now Sports 4
 https://raw.githubusercontent.com/LoveLimbo/tv-logos/main/countries/hong-kong/now-sports-4-hk.png
-#EXTINF:-1 tvg-id="Now Sports 4K 1.hk"tvg-logo="https://raw.githubusercontent.com/LoveLimbo/tv-logos/main/countries/hong-kong/now-sports-4k-1-hk.png"group-title="HK Sports",Now Sports 4K 1
+#EXTINF:-1 tvg-id="Now Sports 4K 1.hk"tvg-logo="https://raw.githubusercontent.com/LoveLimbo/TV/main/logo/Now%20Sports%204K%201.hk.png"group-title="HK Sports",Now Sports 4K 1
 https://raw.githubusercontent.com/LoveLimbo/tv-logos/main/countries/hong-kong/now-sports-4k-1-hk.png
-#EXTINF:-1 tvg-id="Now Sports 4K 2.hk"tvg-logo="https://raw.githubusercontent.com/LoveLimbo/tv-logos/main/countries/hong-kong/now-sports-4k-2-hk.png"group-title="HK Sports",Now Sports 4K 2
+#EXTINF:-1 tvg-id="Now Sports 4K 2.hk"tvg-logo="https://raw.githubusercontent.com/LoveLimbo/TV/main/logo/Now%20Sports%204K%202.hk.png"group-title="HK Sports",Now Sports 4K 2
 https://raw.githubusercontent.com/LoveLimbo/tv-logos/main/countries/hong-kong/now-sports-4k-2-hk.png
-#EXTINF:-1 tvg-id="Now Sports 4K 3.hk"tvg-logo="https://raw.githubusercontent.com/LoveLimbo/tv-logos/main/countries/hong-kong/now-sports-4k-3-hk.png"group-title="HK Sports",Now Sports 4K 3
+#EXTINF:-1 tvg-id="Now Sports 4K 3.hk"tvg-logo="https://raw.githubusercontent.com/LoveLimbo/TV/main/logo/Now%20Sports%204K%203.hk.png"group-title="HK Sports",Now Sports 4K 3
 https://raw.githubusercontent.com/LoveLimbo/tv-logos/main/countries/hong-kong/now-sports-4k-3-hk.png
-#EXTINF:-1 tvg-id="Now Sports 5.hk"tvg-logo="https://raw.githubusercontent.com/LoveLimbo/tv-logos/main/countries/hong-kong/now-sports-5-hk.png"group-title="HK Sports",Now Sports 5
+#EXTINF:-1 tvg-id="Now Sports 5.hk"tvg-logo="https://raw.githubusercontent.com/LoveLimbo/TV/main/logo/Now%20Sports%205.hk.png"group-title="HK Sports",Now Sports 5
 https://raw.githubusercontent.com/LoveLimbo/tv-logos/main/countries/hong-kong/now-sports-5-hk.png
-#EXTINF:-1 tvg-id="Now Sports 6.hk"tvg-logo="https://raw.githubusercontent.com/LoveLimbo/tv-logos/main/countries/hong-kong/now-sports-6-hk.png"group-title="HK Sports",Now Sports 6
+#EXTINF:-1 tvg-id="Now Sports 6.hk"tvg-logo="https://raw.githubusercontent.com/LoveLimbo/TV/main/logo/Now%20Sports%206.hk.png"group-title="HK Sports",Now Sports 6
 https://raw.githubusercontent.com/LoveLimbo/tv-logos/main/countries/hong-kong/now-sports-6-hk.png
-#EXTINF:-1 tvg-id="Now Sports 7.hk"tvg-logo="https://raw.githubusercontent.com/LoveLimbo/tv-logos/main/countries/hong-kong/now-sports-7-hk.png"group-title="HK Sports",Now Sports 7
+#EXTINF:-1 tvg-id="Now Sports 7.hk"tvg-logo="https://raw.githubusercontent.com/LoveLimbo/TV/main/logo/Now%20Sports%207.hk.png"group-title="HK Sports",Now Sports 7
 https://raw.githubusercontent.com/LoveLimbo/tv-logos/main/countries/hong-kong/now-sports-7-hk.png
-#EXTINF:-1 tvg-id="Now Sports Plus.hk"tvg-logo="https://raw.githubusercontent.com/LoveLimbo/tv-logos/main/countries/hong-kong/now-sports-plus-hk.png"group-title="HK Sports",Now Sports Plus
+#EXTINF:-1 tvg-id="Now Sports Plus.hk"tvg-logo="https://raw.githubusercontent.com/LoveLimbo/TV/main/logo/Now%20Sports%20Plus.hk.png"group-title="HK Sports",Now Sports Plus
 https://raw.githubusercontent.com/LoveLimbo/tv-logos/main/countries/hong-kong/now-sports-plus-hk.png
-#EXTINF:-1 tvg-id="Now Sports Premier League 1.hk"tvg-logo="https://raw.githubusercontent.com/LoveLimbo/tv-logos/main/countries/hong-kong/now-sports-premier-league-1-hk.png"group-title="HK Sports",Now Sports Premier League 1
+#EXTINF:-1 tvg-id="Now Sports Premier League 1.hk"tvg-logo="https://raw.githubusercontent.com/LoveLimbo/TV/main/logo/Now%20Sports%20Premier%20League%201.hk.png"group-title="HK Sports",Now Sports Premier League 1
 https://raw.githubusercontent.com/LoveLimbo/tv-logos/main/countries/hong-kong/now-sports-premier-league-1-hk.png
-#EXTINF:-1 tvg-id="Now Sports Premier League 2.hk"tvg-logo="https://raw.githubusercontent.com/LoveLimbo/tv-logos/main/countries/hong-kong/now-sports-premier-league-2-hk.png"group-title="HK Sports",Now Sports Premier League 2
+#EXTINF:-1 tvg-id="Now Sports Premier League 2.hk"tvg-logo="https://raw.githubusercontent.com/LoveLimbo/TV/main/logo/Now%20Sports%20Premier%20League%202.hk.png"group-title="HK Sports",Now Sports Premier League 2
 https://raw.githubusercontent.com/LoveLimbo/tv-logos/main/countries/hong-kong/now-sports-premier-league-2-hk.png
-#EXTINF:-1 tvg-id="Now Sports Premier League 3.hk"tvg-logo="https://raw.githubusercontent.com/LoveLimbo/tv-logos/main/countries/hong-kong/now-sports-premier-league-3-hk.png"group-title="HK Sports",Now Sports Premier League 3
+#EXTINF:-1 tvg-id="Now Sports Premier League 3.hk"tvg-logo="https://raw.githubusercontent.com/LoveLimbo/TV/main/logo/Now%20Sports%20Premier%20League%203.hk.png"group-title="HK Sports",Now Sports Premier League 3
 https://raw.githubusercontent.com/LoveLimbo/tv-logos/main/countries/hong-kong/now-sports-premier-league-3-hk.png
-#EXTINF:-1 tvg-id="Now Sports Premier League 4.hk"tvg-logo="https://raw.githubusercontent.com/LoveLimbo/tv-logos/main/countries/hong-kong/now-sports-premier-league-4-hk.png"group-title="HK Sports",Now Sports Premier League 4
+#EXTINF:-1 tvg-id="Now Sports Premier League 4.hk"tvg-logo="https://raw.githubusercontent.com/LoveLimbo/TV/main/logo/Now%20Sports%20Premier%20League%204.hk.png"group-title="HK Sports",Now Sports Premier League 4
 https://raw.githubusercontent.com/LoveLimbo/tv-logos/main/countries/hong-kong/now-sports-premier-league-4-hk.png
-#EXTINF:-1 tvg-id="Now Sports Premier League 5.hk"tvg-logo="https://raw.githubusercontent.com/LoveLimbo/tv-logos/main/countries/hong-kong/now-sports-premier-league-5-hk.png"group-title="HK Sports",Now Sports Premier League 5
+#EXTINF:-1 tvg-id="Now Sports Premier League 5.hk"tvg-logo="https://raw.githubusercontent.com/LoveLimbo/TV/main/logo/Now%20Sports%20Premier%20League%205.hk.png"group-title="HK Sports",Now Sports Premier League 5
 https://raw.githubusercontent.com/LoveLimbo/tv-logos/main/countries/hong-kong/now-sports-premier-league-5-hk.png
-#EXTINF:-1 tvg-id="Now Sports Premier League 6.hk"tvg-logo="https://raw.githubusercontent.com/LoveLimbo/tv-logos/main/countries/hong-kong/now-sports-premier-league-6-hk.png"group-title="HK Sports",Now Sports Premier League 6
+#EXTINF:-1 tvg-id="Now Sports Premier League 6.hk"tvg-logo="https://raw.githubusercontent.com/LoveLimbo/TV/main/logo/Now%20Sports%20Premier%20League%206.hk.png"group-title="HK Sports",Now Sports Premier League 6
 https://raw.githubusercontent.com/LoveLimbo/tv-logos/main/countries/hong-kong/now-sports-premier-league-6-hk.png
-#EXTINF:-1 tvg-id="Now Sports Premier League 7.hk"tvg-logo="https://raw.githubusercontent.com/LoveLimbo/tv-logos/main/countries/hong-kong/now-sports-premier-league-tv-hk.png"group-title="HK Sports",Now Sports Premier League 7
+#EXTINF:-1 tvg-id="Now Sports Premier League 7.hk"tvg-logo="https://raw.githubusercontent.com/LoveLimbo/TV/main/logo/Now%20Sports%20Premier%20League%207.hk.png"group-title="HK Sports",Now Sports Premier League 7
 https://raw.githubusercontent.com/LoveLimbo/tv-logos/main/countries/hong-kong/now-sports-premier-league-tv-hk.png
-#EXTINF:-1 tvg-id="Now Sports Prime.hk"tvg-logo="https://raw.githubusercontent.com/LoveLimbo/tv-logos/main/countries/hong-kong/now-sports-prime-hk.png"group-title="HK Sports",Now Sports Prime
+#EXTINF:-1 tvg-id="Now Sports Prime.hk"tvg-logo="https://raw.githubusercontent.com/LoveLimbo/TV/main/logo/Now%20Sports%20Prime.hk.png"group-title="HK Sports",Now Sports Prime
 https://raw.githubusercontent.com/LoveLimbo/tv-logos/main/countries/hong-kong/now-sports-prime-hk.png
 #EXTINF:-1 tvg-id="Premier Sports 1.uk"tvg-logo="https://raw.githubusercontent.com/LoveLimbo/TV/main/logo/Premier%20Sports%201.uk.png"group-title="UK Sports",Premier Sports 1
 http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:50:3A:22&stream=1458647&extension=ts&play_token=kX44nruq5B
@@ -101,3 +93,31 @@ http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:50:3A:22&stream=1458665&ext
 http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:50:3A:22&stream=1458815&extension=ts&play_token=vh7J9GGUHE
 #EXTINF:-1 tvg-id="TNT Sports Ultimate.uk"tvg-logo="https://raw.githubusercontent.com/LoveLimbo/TV/main/logo/TNT%20Sports%20Ultimate.uk.png"group-title="UK Sports",TNT Sports Ultimate
 http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:50:3A:22&stream=1595637&extension=ts&play_token=LlkmrSHUo1
+#EXTINF:-1 tvg-id="愛爾達體育1台.tw"tvg-logo="https://raw.githubusercontent.com/LoveLimbo/TV/main/logo/愛爾達體育1台.tw.png"group-title="TW Sports",愛爾達體育1台
+https://t3.iptv200.com/live/eltasport1.flv?sign=1743902312-453904a0d7e53f3f3f2989b4e14dcfd0
+#EXTINF:-1 tvg-id="愛爾達體育2台.tw"tvg-logo="https://raw.githubusercontent.com/LoveLimbo/TV/main/logo/愛爾達體育2台.tw.png"group-title="TW Sports",愛爾達體育2台
+http://123456.m3u8/
+#EXTINF:-1 tvg-id="愛爾達體育3台.tw"tvg-logo="https://raw.githubusercontent.com/LoveLimbo/TV/main/logo/愛爾達體育3台.tw.png"group-title="TW Sports",愛爾達體育3台
+http://123456.m3u8/
+#EXTINF:-1 tvg-id="愛爾達體育4台.tw"tvg-logo="https://raw.githubusercontent.com/LoveLimbo/TV/main/logo/愛爾達體育4台.tw.png"group-title="TW Sports",愛爾達體育4台
+http://123456.m3u8/
+#EXTINF:-1 tvg-id="博斯高球二台.tw"tvg-logo="https://raw.githubusercontent.com/LoveLimbo/TV/main/logo/博斯高球二台.tw.png"group-title="TW Sports",博斯高球二台
+https://pixman.mytvsuper.com.mp/Smart.php?id=bosigolf2_twn
+#EXTINF:-1 tvg-id="博斯高球一台.tw"tvg-logo="https://raw.githubusercontent.com/LoveLimbo/TV/main/logo/博斯高球一台.tw.png"group-title="TW Sports",博斯高球一台
+http://123456.m3u8/
+#EXTINF:-1 tvg-id="博斯魅力網.tw"tvg-logo="https://raw.githubusercontent.com/LoveLimbo/TV/main/logo/博斯魅力網.tw.png"group-title="TW Sports",博斯魅力網
+http://123456.m3u8/
+#EXTINF:-1 tvg-id="博斯網球台.tw"tvg-logo="https://raw.githubusercontent.com/LoveLimbo/TV/main/logo/博斯網球台.tw.png"group-title="TW Sports",博斯網球台
+https://pixman.mytvsuper.com.mp/Smart.php?id=bositennis_twn
+#EXTINF:-1 tvg-id="博斯無限二台.tw"tvg-logo="https://raw.githubusercontent.com/LoveLimbo/TV/main/logo/博斯無限二台.tw.png"group-title="TW Sports",博斯無限二台
+http://123456.m3u8/
+#EXTINF:-1 tvg-id="博斯無限台.tw"tvg-logo="https://raw.githubusercontent.com/LoveLimbo/TV/main/logo/博斯無限台.tw.png"group-title="TW Sports",博斯無限台
+https://pixman.mytvsuper.com.mp/Smart.php?id=bosiunlimited_twn
+#EXTINF:-1 tvg-id="博斯運動二台.tw"tvg-logo="https://raw.githubusercontent.com/LoveLimbo/TV/main/logo/博斯運動二台.tw.png"group-title="TW Sports",博斯運動二台
+https://pixman.mytvsuper.com.mp/Smart.php?id=bosisport1_twn
+#EXTINF:-1 tvg-id="博斯運動一台.tw"tvg-logo="https://raw.githubusercontent.com/LoveLimbo/TV/main/logo/博斯運動一台.tw.png"group-title="TW Sports",博斯運動一台
+https://pixman.mytvsuper.com.mp/Smart.php?id=bosisport2_twn
+#EXTINF:-1 tvg-id="緯來體育台.tw"tvg-logo="https://raw.githubusercontent.com/LoveLimbo/TV/main/logo/緯來體育台.tw.png"group-title="TW Sports",緯來體育台
+http://123456.m3u8/
+#EXTINF:-1 tvg-id="五星体育频道.cn"tvg-logo="https://raw.githubusercontent.com/LoveLimbo/TV/main/logo/五星体育频道.cn.png"group-title="CN Sports",五星体育
+http://123456.m3u8/
